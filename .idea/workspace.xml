@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00b9e4c0-416e-46a2-b440-8e91954d0665" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WueBGpPhz2yHkvLvdsdqI2kwIA" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zerobank.runners" />
+      <recent name="com.zerobank.step_definitions" />
+      <recent name="com.zerobank.utilities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zerobank-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zerobank.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zerobank.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.zerobank.runners.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00b9e4c0-416e-46a2-b440-8e91954d0665" name="Default Changelist" comment="" />
+      <created>1580003769978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580003769978</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom" timestamp="1580004393095">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.725/1280.-38.1920.1057@0.23.1280.725" timestamp="1580004393095" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center" timestamp="1580004393094">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.725/1280.-38.1920.1057@0.23.1280.725" timestamp="1580004393094" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left" timestamp="1580004393094">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.725/1280.-38.1920.1057@0.23.1280.725" timestamp="1580004393094" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right" timestamp="1580004393095">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.725/1280.-38.1920.1057@0.23.1280.725" timestamp="1580004393095" />
+  </component>
+</project>
