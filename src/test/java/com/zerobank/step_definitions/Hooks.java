@@ -7,21 +7,15 @@ import io.cucumber.java.Before;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
+import java.util.concurrent.TimeUnit;
+
 public class Hooks {
 
 
     @Before
     public void setUp(){
-        System.out.println("\tthis is coming from BEFORE");
-    }
-
-    @After("@db")
-    public void tearDownDatabase(){
-        System.out.println("\tCLOSING DATABASE CONNECTION");
-    }
-    @Before("@db")
-    public void setUpDatabase(){
-        System.out.println("\tCONNECTION DATABASE");
+        Driver.get().manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+        Driver.get().manage().window().fullscreen();
     }
 
     @After
